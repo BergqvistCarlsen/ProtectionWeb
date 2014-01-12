@@ -1,3 +1,13 @@
+#u353-4,#u355-4
+{
+	font-family: bebas-neue-n4, sans-serif;
+}
+
+#u234-6
+{
+	font-family: bebas-neue-n4, sans-serif;
+}
+
 #u238-4
 {
 	font-family: source-sans-pro-n2, sans-serif;
@@ -8,19 +18,14 @@
 	font-family: source-sans-pro-n3, sans-serif;
 }
 
-#u236,#u298,#u242-4,#u239-4,#u241-4
-{
-	font-family: source-sans-pro-n9, sans-serif;
-}
-
-#u246-4,#u247-4,#u236-5,#u297-5,#u298-4,#u926-8
+#u236-5,#u246-4,#u247-4,#u297-5,#u298-4
 {
 	font-family: source-sans-pro-n4, sans-serif;
 }
 
-#u234-6,#u927-26,#u353-4,#u355-4
+#u236,#u239-4,#u241-4,#u242-4,#u298
 {
-	font-family: bebas-neue-n4, sans-serif;
+	font-family: source-sans-pro-n9, sans-serif;
 }
 
 #u330-4
@@ -51,5 +56,10 @@
 #u323-4
 {
 	font-family: source-sans-pro-n7, sans-serif;
+}
+
+#u300-4
+{
+	font-family: source-sans-pro-n2, sans-serif;
 }
 
