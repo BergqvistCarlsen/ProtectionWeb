@@ -129,6 +129,37 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.reng-ringsspecialer--br-dtekst
+{
+	color: #0C273F;
+	font-family: fugaz-one, sans-serif;
+	font-size: 30px;
+	font-weight: 400;
+	line-height: 28px;
+	padding: 0px;
+}
+
+.Specialer--headlines
+{
+	color: #E9E9E9;
+	font-family: bebas-neue, sans-serif;
+	font-size: 130px;
+	font-weight: 400;
+	line-height: 108px;
+	padding: 0px;
+}
+
+.Logo-Style
+{
+	color: #F15A24;
+	font-family: mrs-sheppards, fantasy;
+	font-size: 157px;
+	font-weight: 400;
+	text-align: center;
+	text-indent: -52px;
+	padding: 0px;
+}
+
 .TabbedPanelsTab
 {
 	white-space: nowrap;
@@ -348,7 +379,13 @@ textarea
 	display: block;
 }
 
-.widget_invisible,.js .invi,.js .se_invi,.js .an_invi /* used to hide the widget before loaded */
+.ose_ei
+{
+	visibility: hidden;
+	z-index: 0;
+}
+
+.widget_invisible,.js .invi,.js .mse_pre_init,.js .an_invi /* used to hide the widget before loaded */
 {
 	visibility: hidden;
 }
