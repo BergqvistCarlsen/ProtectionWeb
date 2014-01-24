@@ -160,6 +160,16 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
+.kontakt-style
+{
+	color: #F15A24;
+	font-family: bebas-neue, sans-serif;
+	font-size: 40px;
+	font-weight: 400;
+	text-align: right;
+	padding: 0px;
+}
+
 .TabbedPanelsTab
 {
 	white-space: nowrap;
