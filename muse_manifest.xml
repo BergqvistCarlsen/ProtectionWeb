@@ -1,7 +1,7 @@
 <manifest alg="2" build="232" opt="false" iceEnabled="true">
   <folder name="css">
-    <file name="site_global.css" crc="97517534"/>
-    <file name="index.css" crc="4041470916" ref="index"/>
+    <file name="site_global.css" crc="4100616111"/>
+    <file name="index.css" crc="300070375" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -25,5 +25,5 @@
     <file name="cleaner.png" crc="3996541092" ref="index"/>
     <file name="ole_protection.png" crc="3891650641" ref="index"/>
   </folder>
-  <file name="index.html" crc="4090202648" mt="1390576753914" redirect="true"/>
+  <file name="index.html" crc="3771890086" mt="1390744024830" redirect="true"/>
 </manifest>

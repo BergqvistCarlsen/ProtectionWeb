@@ -30,9 +30,6 @@
 	text-align: left;
 	line-height: 29px;
 	font-size: 24px;
-	color: #F15A24;
-	font-family: bebas-neue, sans-serif;
-	font-weight: 400;
 	position: fixed;
 	top: 56px;
 	left: 50%;
@@ -45,12 +42,7 @@
 	width: 88px;
 	min-height: 26px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 29px;
-	font-size: 24px;
-	color: #F15A24;
-	font-family: bebas-neue, sans-serif;
-	font-weight: 400;
 	position: fixed;
 	top: 56px;
 	left: 50%;
@@ -71,12 +63,7 @@
 	width: 95px;
 	min-height: 26px;
 	background-color: transparent;
-	text-align: left;
 	line-height: 29px;
-	font-size: 24px;
-	color: #F15A24;
-	font-family: bebas-neue, sans-serif;
-	font-weight: 400;
 	position: fixed;
 	top: 56px;
 	left: 50%;
@@ -91,10 +78,15 @@
 	margin: 0px 0px 0px 385px;
 }
 
-#u77-4:hover p,#u78-4:hover p
+#u77-4:hover p,#u77-4:hover h3,#u78-4:hover p,#u78-4:hover h3
 {
 	color: #000000;
 	visibility: inherit;
+}
+
+#u77-2,#u78-2
+{
+	font-size: 24px;
 }
 
 #u69-4
@@ -126,9 +118,9 @@
 	z-index: 10;
 	width: 338px;
 	text-align: center;
-	line-height: 39px;
 	font-size: 48px;
 	color: #000000;
+	line-height: 39px;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -163,21 +155,10 @@
 	z-index: 82;
 	width: 960px;
 	min-height: 559px;
-	text-align: center;
-	line-height: 63px;
-	font-size: 64px;
-	color: #E9E9E9;
-	font-family: source-sans-pro, sans-serif;
-	font-weight: 200;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 57px;
 	left: 120px;
-}
-
-#u86-6
-{
-	text-indent: -39px;
 }
 
 #specialer
@@ -480,16 +461,11 @@
 	z-index: 131;
 	width: 1200px;
 	min-height: 85px;
-	text-align: center;
-	text-indent: -163px;
-	line-height: 87px;
-	font-size: 97px;
-	color: #F15A24;
-	font-family: mrs-sheppards, fantasy;
-	font-weight: 400;
+	line-height: 79px;
+	font-size: 82px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 62px;
+	margin-top: 91px;
 }
 
 #u360-4
@@ -535,8 +511,8 @@
 	width: 155px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 236px;
-	left: 523px;
+	margin-top: 178px;
+	left: 450px;
 }
 
 #kontakt

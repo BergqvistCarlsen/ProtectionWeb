@@ -129,7 +129,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.reng-ringsspecialer--br-dtekst
+.text
 {
 	color: #0C273F;
 	font-family: fugaz-one, sans-serif;
@@ -149,7 +149,7 @@ a.nontext /* used to override default properties of 'a' tag */
 	padding: 0px;
 }
 
-.Logo-Style
+.headline
 {
 	color: #F15A24;
 	font-family: mrs-sheppards, fantasy;
@@ -167,6 +167,17 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-size: 40px;
 	font-weight: 400;
 	text-align: right;
+	padding: 0px;
+}
+
+.protection-text
+{
+	color: #E9E9E9;
+	font-family: source-sans-pro, sans-serif;
+	font-size: 64px;
+	font-weight: 200;
+	line-height: 63px;
+	text-align: center;
 	padding: 0px;
 }
 
