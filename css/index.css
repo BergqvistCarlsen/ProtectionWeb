@@ -25,7 +25,7 @@
 
 #u74-4
 {
-	z-index: 6;
+	z-index: 16;
 	width: 289px;
 	min-height: 26px;
 	line-height: 29px;
@@ -39,7 +39,7 @@
 
 #u77-4
 {
-	z-index: 14;
+	z-index: 24;
 	width: 88px;
 	min-height: 26px;
 	background-color: transparent;
@@ -60,7 +60,7 @@
 
 #u78-4
 {
-	z-index: 18;
+	z-index: 28;
 	width: 95px;
 	min-height: 26px;
 	background-color: transparent;
@@ -92,7 +92,7 @@
 
 #u69-4
 {
-	z-index: 2;
+	z-index: 12;
 	width: 1200px;
 	min-height: 98px;
 	line-height: 188px;
@@ -104,7 +104,7 @@
 
 #u76-4
 {
-	z-index: 10;
+	z-index: 20;
 	width: 338px;
 	color: #000000;
 	line-height: 39px;
@@ -127,7 +127,7 @@
 
 #u839-10
 {
-	z-index: 45;
+	z-index: 2;
 	width: 1200px;
 	min-height: 62px;
 	line-height: 14px;
@@ -155,7 +155,7 @@
 
 #u580
 {
-	z-index: 22;
+	z-index: 32;
 	width: 1200px;
 	border-style: none;
 	border-color: transparent;
@@ -176,7 +176,7 @@
 
 #u363-6
 {
-	z-index: 26;
+	z-index: 36;
 	width: 300px;
 	min-height: 87px;
 	color: #E9E9E9;
@@ -191,7 +191,7 @@
 
 #u360-4
 {
-	z-index: 32;
+	z-index: 42;
 	width: 300px;
 	min-height: 20px;
 	line-height: 31px;
@@ -203,7 +203,7 @@
 
 #u581
 {
-	z-index: 24;
+	z-index: 34;
 	height: 66px;
 	width: 81px;
 	vertical-align: top;
@@ -221,7 +221,7 @@
 
 #u362-4
 {
-	z-index: 36;
+	z-index: 46;
 	width: 408px;
 	min-height: 38px;
 	line-height: 31px;
@@ -239,7 +239,7 @@
 
 #u359-4
 {
-	z-index: 40;
+	z-index: 50;
 	width: 1200px;
 	min-height: 85px;
 	line-height: 47px;
