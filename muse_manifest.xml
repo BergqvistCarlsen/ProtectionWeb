@@ -1,27 +1,32 @@
 <manifest alg="2" build="232" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4016095572"/>
-    <file name="index.css" crc="4023860192" ref="index"/>
-    <file name="protection-service_-specialer.css" crc="140722460" ref="protection-service,-specialer"/>
+    <file name="index.css" crc="458230462" ref="index"/>
+    <file name="protection-service_-specialer.css" crc="4286672229" ref="protection-service,-specialer"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:protection-service,-specialer"/>
-    <file name="museutils.js" crc="4291592202" ref="index:protection-service,-specialer"/>
-    <file name="jquery.scrolleffects.js" crc="4006931061" ref="index:protection-service,-specialer"/>
-    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index:protection-service,-specialer"/>
-    <file name="jquery.watch.js" crc="4068933136" ref="index:protection-service,-specialer"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:protection-service,-specialer"/>
+    <file name="museutils.js" crc="4291592202" ref="phone>index:index:protection-service,-specialer"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="phone>index:index:protection-service,-specialer"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="4006931061" ref="phone>index:index:protection-service,-specialer"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="phone>index:index:protection-service,-specialer"/>
+    <file name="museredirect.js" crc="4101519497" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="windowcleaning_phone.png" crc="172401355" ref="phone>index"/>
+    <file name="floorsoap.png" crc="244427387" ref="phone>index:protection-service,-specialer"/>
+    <file name="kitchen_clean.png" crc="4171506592" ref="phone>index:protection-service,-specialer"/>
+    <file name="kitchen_shine.png" crc="163451911" ref="phone>index:protection-service,-specialer"/>
+    <file name="can_stain343x294.png" crc="503895487" ref="phone>index"/>
+    <file name="facade320x153.png" crc="3957565232" ref="phone>index"/>
+    <file name="gulv.png" crc="4058172452" ref="phone>index:protection-service,-specialer"/>
     <file name="u581.png" crc="107560162" ref="index"/>
     <file name="u581-r.png" crc="367493494" ref="index"/>
     <file name="vindue.png" crc="3837732186" ref="protection-service,-specialer"/>
     <file name="water.png" crc="3795256674" ref="protection-service,-specialer"/>
     <file name="cleaner.png" crc="3996541092" ref="protection-service,-specialer"/>
-    <file name="gulv.png" crc="4058172452" ref="protection-service,-specialer"/>
-    <file name="floorsoap.png" crc="244427387" ref="protection-service,-specialer"/>
-    <file name="kitchen_clean.png" crc="4171506592" ref="protection-service,-specialer"/>
     <file name="kitchen_dirty.png" crc="4158283341" ref="protection-service,-specialer"/>
-    <file name="kitchen_shine.png" crc="163451911" ref="protection-service,-specialer"/>
     <file name="can_stain.png" crc="269100573" ref="protection-service,-specialer"/>
     <file name="can.png" crc="335500688" ref="protection-service,-specialer"/>
     <file name="facade.png" crc="4047388296" ref="protection-service,-specialer"/>
@@ -29,6 +34,12 @@
     <file name="u733.png" crc="107560162" ref="protection-service,-specialer"/>
     <file name="u733-r.png" crc="367493494" ref="protection-service,-specialer"/>
   </folder>
-  <file name="index.html" crc="3815085914" mt="1390919068815" redirect="true"/>
-  <file name="protection-service,-specialer.html" crc="418418015" mt="1390918993707" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="113595124" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="438823007" mt="1391027778545" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="401603738" mt="1391028316011" redirect="true"/>
+  <file name="protection-service,-specialer.html" crc="251145185" mt="1391028183304" redirect="true"/>
 </manifest>

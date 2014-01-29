@@ -471,10 +471,12 @@
 	z-index: 127;
 	width: 1200px;
 	min-height: 85px;
-	line-height: 47px;
 	color: #E9E9E9;
+	line-height: 47px;
 	text-indent: 0px;
 	font-size: 49px;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 3956px;
