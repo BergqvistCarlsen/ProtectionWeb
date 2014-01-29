@@ -476,6 +476,11 @@
 	margin-top: 34px;
 }
 
+body
+{
+	padding-bottom: 96px;
+}
+
 #page .verticalspacer
 {
 	clear: both;

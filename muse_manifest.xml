@@ -36,10 +36,10 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="113595124" ref="phone>index"/>
+      <file name="index.css" crc="3928088781" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="438823007" mt="1391027778545" redirect="true"/>
+    <file name="index.html" crc="438823007" mt="1391028492024" redirect="true"/>
   </folder>
-  <file name="index.html" crc="401603738" mt="1391028316011" redirect="true"/>
-  <file name="protection-service,-specialer.html" crc="251145185" mt="1391028183304" redirect="true"/>
+  <file name="index.html" crc="401603738" mt="1391028370856" redirect="true"/>
+  <file name="protection-service,-specialer.html" crc="251145185" mt="1391028371234" redirect="true"/>
 </manifest>
