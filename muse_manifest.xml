@@ -1,8 +1,8 @@
 <manifest alg="2" build="232" opt="false" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="4016095572"/>
-    <file name="index.css" crc="458230462" ref="index"/>
-    <file name="protection-service_-specialer.css" crc="4286672229" ref="protection-service,-specialer"/>
+    <file name="protection-service_-specialer.css" crc="278643104" ref="protection-service,-specialer"/>
+    <file name="index.css" crc="4206210303" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index:protection-service,-specialer"/>
@@ -21,8 +21,6 @@
     <file name="can_stain343x294.png" crc="503895487" ref="phone>index"/>
     <file name="facade320x153.png" crc="3957565232" ref="phone>index"/>
     <file name="gulv.png" crc="4058172452" ref="phone>index:protection-service,-specialer"/>
-    <file name="u581.png" crc="107560162" ref="index"/>
-    <file name="u581-r.png" crc="367493494" ref="index"/>
     <file name="vindue.png" crc="3837732186" ref="protection-service,-specialer"/>
     <file name="water.png" crc="3795256674" ref="protection-service,-specialer"/>
     <file name="cleaner.png" crc="3996541092" ref="protection-service,-specialer"/>
@@ -31,15 +29,13 @@
     <file name="can.png" crc="335500688" ref="protection-service,-specialer"/>
     <file name="facade.png" crc="4047388296" ref="protection-service,-specialer"/>
     <file name="facade_clean.png" crc="80958479" ref="protection-service,-specialer"/>
-    <file name="u733.png" crc="107560162" ref="protection-service,-specialer"/>
-    <file name="u733-r.png" crc="367493494" ref="protection-service,-specialer"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="index.css" crc="3928088781" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="438823007" mt="1391028492024" redirect="true"/>
+    <file name="index.html" crc="4057042332" mt="1391028492024" redirect="true"/>
   </folder>
-  <file name="index.html" crc="401603738" mt="1391028370856" redirect="true"/>
-  <file name="protection-service,-specialer.html" crc="251145185" mt="1391028371234" redirect="true"/>
+  <file name="index.html" crc="3765520775" mt="1395848012685" redirect="true"/>
+  <file name="protection-service,-specialer.html" crc="394917046" mt="1395848012687" redirect="true"/>
 </manifest>
